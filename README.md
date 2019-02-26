@@ -1,16 +1,16 @@
-# Homework assignment 1 for Machine Learning
+# Homework Assignment 1 for Machine Learning
 # Spring 2019, CAP5610
 
 This homework includes:
-Python programming
-numpy
-matplotlib
-Keras
-gradients
-partial derivatives
-git
-GitHub
-Google's colaboratory
+- Python programming
+- numpy
+- matplotlib
+- Keras
+- gradients
+- partial derivatives
+- git
+- GitHub
+- Google's colaboratory
 
 "For this homework, you will create neural networks with an input layer and an output layer without any hidden layers. The connections are dense: each input neuron is connected to each output neuron.
 
