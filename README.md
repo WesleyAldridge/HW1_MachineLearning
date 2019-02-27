@@ -12,6 +12,7 @@ This homework includes:
 - GitHub
 - Google's colaboratory
 
+Instructions from professor:
 "For this homework, you will create neural networks with an input layer and an output layer without any hidden layers. The connections are dense: each input neuron is connected to each output neuron.
 
 Instructions for problems 1 and 2:
